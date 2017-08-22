@@ -1,0 +1,42 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/VSCode*
+.vscode
+#*.meta
+build/*
+Assets/EasyMovieTexture/AndroidSource*
+Assets/EasyMovieTexture/Scene*
+Assets/EasyMovieTexture/UserManual*
+Assets/EasyMovieTexture/readme*
+
+Assets/OneSignal/Example*
+debug.log
